@@ -1,4 +1,4 @@
 def my_square(x):
-	return (x ** 2)
+	return (x ** x)
 
 print (my_square(5))
